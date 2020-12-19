@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="04031971-76e0-472a-aa79-aad8add97dea" name="ye_lab" url="http://134.48.91.143">
+        <fileTransfer rootFolder="/home/MARQNET/7734kanc" accessType="SFTP" host="134.48.91.143" port="22" sshConfigId="2a0b392d-2037-46f2-934b-2caa8affa1a3" sshConfig="7734kanc@134.48.91.143:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
